@@ -12,7 +12,8 @@ You'll need, in your own Google/Slack accounts:
 - Slack connected in Claude, for the same workspace you want check-ins sent in
 - Three Google Forms (30-day / 90-day / 365-day check-in surveys) with
   auto-populating "(Responses)" Sheets — or tell Claude you want it to help you
-  build these from scratch first
+  build these from scratch first. You will need to structure the surveys properly (this will take 90 mins approx - I based the survey questions on the 'Values' of the company (shout if you need this described in more detail) 
+-GoogleSheet with hiring data (new starter names, start date, line manager, source of hire / internal/external) 
 
 If you don't have the Forms/Sheets yet, say so up front — step 1 below covers
 building them before the rest of the setup makes sense.
@@ -94,8 +95,10 @@ live and self-maintaining once the sheets are connected.
 
 ## 🤝 Collaboration
 
+The whole thing was a 24 hour build approx. I keep interating it slightly, but overall happy with the output so far.
+
 If you've got questions, want a hand adapting this to your own setup, or just want to
 talk through build and implementation? Feel free to reach out — happy to
 discuss. I can also send you some confidential screengrabs of the 'look and feel' if you wish. 
 
-Best wishes
+Best wishes,
