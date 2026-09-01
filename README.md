@@ -4,7 +4,7 @@ This template ships with no real company data, every step below tells you
 what to fill in for *your* organisation. Do these in order; each one gives
 Claude what it needs for the next.
 
-## ✅ Before you start
+## ✅ Before you start building
 
 You'll need, in your own Google/Slack accounts:
 
