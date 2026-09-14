@@ -95,7 +95,7 @@ live and self-maintaining once the sheets are connected.
 
 ## 🤝 Collaboration
 
-The whole thing was a 24 hour build approx. I keep interating it slightly, but overall happy with the output so far. Link to the presentation / artifact here https://claude.ai/code/artifact/6e53fd41-526a-4682-8529-b655d3d6a2dd?open_in_browser=1&via=user_open&org=0b9634bd-9fd8-4550-bf9d-bf4968d3bf2f
+The whole thing was a 24 hour build approx. I keep interating it slightly, but overall happy with the output so far. Link to the live presentation / artifact here https://claude.ai/code/artifact/6e53fd41-526a-4682-8529-b655d3d6a2dd?open_in_browser=1&via=user_open&org=0b9634bd-9fd8-4550-bf9d-bf4968d3bf2f
 
 If you've got questions, want a hand adapting this to your own setup, or just want to
 talk through build and implementation? Feel free to reach out — happy to
